@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 
+body {
+  @apply bg-cover bg-center bg-no-repeat min-h-screen;
+  background-image: url('/bgimage.webp');
+}
+
 
 
 
