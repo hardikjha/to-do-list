@@ -1,4 +1,4 @@
-# 📝 TaskTick To Do List with React
+# TaskTick To Do List with React
 
 A simple To-Do List application built with React and Vite.  
 
@@ -10,10 +10,10 @@ A simple To-Do List application built with React and Vite.
 -  Add new tasks
 -  Mark tasks as completed
 -  Delete tasks
--  Edit existing tasks
--  Responsive and styled with Tailwind CSS
+-  Edit tasks
+-  Styled with Tailwind CSS
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
@@ -58,8 +58,7 @@ npm install
 npm run dev
 ```
 
-Open your browser and navigate to:  
-[http://localhost:5173](http://localhost:5173)
+
 
 ---
 
