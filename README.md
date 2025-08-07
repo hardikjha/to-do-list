@@ -1,14 +1,70 @@
-# 📝 React To-Do List App
+# 📝 TaskTick To Do List with React
 
-A simple and elegant To-Do List application built with React and Vite.  
-This project is created as part of **React Assignment 1** and demonstrates the use of functional components, state, props, and event handling.
+A simple To-Do List application built with React and Vite.  
+
 
 ---
 
-## 🚀 Features
+## App Features
 
-- ✅ Add new tasks
-- ✅ Mark tasks as completed
-- ✅ Delete tasks
-- ✅ Edit existing tasks
-- ✅ Responsive and styled with Tailwind CSS
+-  Add new tasks
+-  Mark tasks as completed
+-  Delete tasks
+-  Edit existing tasks
+-  Responsive and styled with Tailwind CSS
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## 📸 Screenshots
+
+![Screenshot PC](public/TDLreact.PNG)
+![Screenshot Phone](public/TDLreact2.PNG)
+
+
+## Setting Up
+
+### Prerequisites
+
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (v16+ recommended)
+- [npm](https://www.npmjs.com/)
+
+---
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/hardikjha/to-do-list.git
+cd to-do-list
+```
+
+---
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+### 3. Run the Development Server
+
+```bash
+npm run dev
+```
+
+Open your browser and navigate to:  
+[http://localhost:5173](http://localhost:5173)
+
+---
+
+## Repo Link
+
+- **GitHub Repo:** [https://github.com/hardikjha/to-do-list](https://github.com/hardikjha/to-do-list)
+- Clone and run using steps above
+
